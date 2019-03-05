@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/generalgmt/RESTfulAPITutorial.git"
+    "url": "git+https://github.com/nguyenhoangvannha/JWTAuthNodejs.git"
   },
   "keywords": [
     "RESTful",
@@ -19,9 +19,9 @@
   "author": "olatunde garuba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/generalgmt/RESTfulAPITutorial/issues"
+    "url": "https://github.com/nguyenhoangvannha/JWTAuthNodejs/issues"
   },
-  "homepage": "https://github.com/generalgmt/RESTfulAPITutorial#readme",
+  "homepage": "https://github.com/nguyenhoangvannha/JWTAuthNodejs#readme",
   "devDependencies": {
     "nodemon": "^1.11.0"
   },
